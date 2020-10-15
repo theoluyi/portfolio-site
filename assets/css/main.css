@@ -2168,8 +2168,9 @@ input, select, textarea {
 		input[type="reset"].primary,
 		button.primary,
 		.button.primary {
-			background: #83d3c9;
-			border-color: #83d3c9;
+			/* background: #83d3c9; */
+			background: #a50000;
+			border-color: #a50000;
 			color: #fff !important;
 		}
 
@@ -2178,8 +2179,10 @@ input, select, textarea {
 			input[type="reset"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background: #96dad1 !important;
-				border-color: #96dad1 !important;
+				/* background: #96dad1 !important;
+				border-color: #96dad1 !important; */
+				background: #c66f6f !important;
+				border-color: #c66f6f !important;
 			}
 
 		input[type="button"].fit,
@@ -2212,7 +2215,8 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background-color: #83d3c9;
+			/* background-color: #83d3c9; */
+			background-color: #a50000;
 			background-image: url("images/light-bl.svg"), url("images/light-br.svg");
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
@@ -2236,6 +2240,7 @@ input, select, textarea {
 				background: #fff;
 				border-color: #fff;
 				color: #83d3c9 !important;
+				/* color: #a50000 !important; */
 			}
 
 				.wrapper.style2 input[type="button"].primary:hover,
@@ -2474,7 +2479,8 @@ input, select, textarea {
 			}
 
 			.dropotron > li:hover > a {
-				background: #83d3c9;
+				/* background: #83d3c9; */
+				background: #a50000;
 				color: #fff;
 			}
 
