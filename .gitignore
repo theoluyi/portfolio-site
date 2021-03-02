@@ -1,0 +1,8 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# I want a copy of markdown resume in this dir for
+# safekeeping but it shouldn't be getting committed
+# single source of truth is here: 
+# https://gist.github.com/theoluyi/c910bf9a1e9ae5a3f045fc4479c2731c 
+
+TheoCarney-Resume.md
